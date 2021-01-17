@@ -1,4 +1,9 @@
 //display css property don't working with animation
+
+.has-fade{
+	visibility: hidden;
+}
+
 @keyframes fade-in{
 	from{
 		visibility: hidden;
