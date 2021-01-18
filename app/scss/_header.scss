@@ -90,15 +90,7 @@
 		}
 	}
 
-	&__cta{
-		font-size: $font-sm;
-		color: $white;
-		transition: opactiy 200ms ease-in-out;
 
-		&:hover{
-			opacity: 0.75;
-		}
-	}
 
 	&__menu--mobile{
 		position: absolute;
